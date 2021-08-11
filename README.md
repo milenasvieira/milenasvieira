@@ -1,6 +1,6 @@
 ### Olá 😊
 
-- 📚 Estudando Java e OO
+- 📚 Estudando Node.js
 - 🎓 Graduanda na UFSCar
 - 📍 São Carlos - SP
 
