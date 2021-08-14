@@ -26,7 +26,7 @@
     <a href="https://www.instagram.com/milenasvieira/" target="_blank">
       <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/milena-vieira-491339191/" target="_blank">
+    <a href="https://www.linkedin.com/in/milena-s-vieira/" target="_blank">
       <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="mailto:milenasvieira63@gmail.com" target="_blank">
