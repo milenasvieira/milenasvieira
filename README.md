@@ -1,6 +1,6 @@
 ### Olá 😊
 
-- 📚 Estudando Node.js
+- 📚 Estudando Node.js no Programa Luiza Code com Gama Academy e Luizalabs  
 - 🎓 Graduanda na UFSCar
 - 📍 São Carlos - SP
 
